@@ -1,0 +1,33 @@
+*{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+
+
+
+.nav-column{
+  background-color: black;
+  overflow: hidden;
+  margin-top: 0px;
+}
+
+.nav-column a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav-column a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.pizza-header{
+  width: 100%;
+  height: 350px;
+  margin-bottom: 0%;
+}
